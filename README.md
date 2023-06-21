@@ -1,6 +1,5 @@
 # QuickDesigner
-An open-source tool for fast and simple design for thumbnails
-
+An open-source tool for fast and simple design for thumbnails made in Godot
 
 
 Meet QuickDesigner, the open source tool that streamlines your design process. With QuickDesigner, 

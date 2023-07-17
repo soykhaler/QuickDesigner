@@ -7,4 +7,4 @@ you can easily create eye-catching YouTube thumbnails in the blink of an eye.
 Our easy-to-use interface and intuitive features make it easy for anyone to create professional-looking designs. 
 
 
-This software is MIT License, you can, modify use, distribute and sell this software.
+This software is MIT License, you can, modify use, distribute and sell this software
